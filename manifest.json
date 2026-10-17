@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "muzammiltech15.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "muzammiltech15.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "{\n  \"name\": \"City Drive 3D\",\n  \"short_name\": \"CityDrive3D\",\n  \"description\": \"An exciting 3D city driving game played directly in the browser.\",\n  \"start_url\": \"/CityDrive3DNew/\",\n  \"scope\": \"/CityDrive3DNew/\",\n  \"display\": \"fullscreen\",\n  \"orientation\": \"landscape\",\n  \"background_color\": \"#000000\",\n  \"theme_color\": \"#111111\",\n  \"icons\": [\n    {\n      \"src\": \"icon-192.png\",\n      \"sizes\": \"192x192\",\n      \"type\": \"image/png\",\n      \"purpose\": \"any maskable\"\n    },\n    {\n      \"src\": \"icon-512.png\",\n      \"sizes\": \"512x512\",\n      \"type\": \"image/png\",\n      \"purpose\": \"any maskable\"\n    }\n  ]\n}",
+  "id": "CityDrive3D"
+}
